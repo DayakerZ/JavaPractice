@@ -1,0 +1,23 @@
+
+R
+"src/com/practice/MoreArrayFun.java,a/d/ada864c88595ce68381e6a774d493669cc225abb
+V
+&src/com/practice/ArrayListExample.java,c/2/c2c23b88928631b9764d36ff521ee48df5d95381
+V
+&src/com/practice/DivisibleByThree.java,a/7/a74dfd9569875cfb9827b629f4e5b21f57f1b89c
+T
+$src/com/practice/GuessTheNumber.java,f/3/f3a33014cdd62008c6417a219971134dddd27bdf
+V
+&src/com/practice/LearningPackages.java,0/d/0db2463a9ea6b9e515d1f4bb5329a19dcbe7ef80
+R
+"src/com/practice/MadLibsClone.java,b/b/bb007c4057d49c6cb466a06df41e91ee79526518
+P
+ src/com/practice/LogicalFun.java,3/d/3d24f428d48ae9abce6030ad2c3d15c8eb107a01
+S
+#src/com/practice/ConversionFun.java,a/c/ace362c93304a488a298a40779e5124778721a7a
+S
+#src/com/practice/ArithmeticFun.java,b/7/b79fd0cf06d77b81df4ba3816d09ba8e06103bf9
+R
+"src/com/helloworld/HelloWorld.java,b/8/b863d1cec23856537d300707b3d6bd3d1fe1dc2e
+V
+&src/com/practice/ArrayListExmple2.java,4/9/49fb3a06ef88b2498fc00755461cb3facdf29236

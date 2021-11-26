@@ -1,0 +1,9 @@
+
+T
+java:S1854">Remove this useless assignment to local variable "yourDouble".(„ÿ“£
+R
+java:S1854"<Remove this useless assignment to local variable "myDouble".(Ü¶—
+C
+java:S1481"-Remove this unused "myDouble" local variable.(Ü¶—
+E
+java:S1481"/Remove this unused "yourDouble" local variable.(„ÿ“£
